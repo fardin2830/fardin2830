@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="[https://example.com/path/to/your/banner.png](https://raw.githubusercontent.com/fardin2830/image-host/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)" alt="Banner" style="width:100%; height:auto;">
+</div>
+
 <h1 align="center">Hi 👋, I'm MD. OMUR FARUQUE TALUKDER</h1>
 <h3 align="center">Aspiring MERN stack developer committed to crafting efficient and innovative web solutions, with a passion for continuous learning and collaboration</h3>
 
