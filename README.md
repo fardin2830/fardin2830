@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://example.com/path/to/your/banner.png](https://raw.githubusercontent.com/fardin2830/image-host/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)" alt="Banner" style="width:100%; height:auto;">
+  <img src="https://raw.githubusercontent.com/fardin2830/image-host/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png" alt="Banner" style="width:100%; height:auto;">
 </div>
 
 <h1 align="center">Hi 👋, I'm MD. OMUR FARUQUE TALUKDER</h1>
